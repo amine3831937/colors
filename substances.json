@@ -1,0 +1,29 @@
+{
+  "1": {
+    "Doppio Raso": {
+      "3mm": {"Nero": 50, "Blu": 4, "F3BS": 4, "arancio": 1.5},
+      "6mm": {"Nero": 55, "blu": 5, "F3BS": 4.5, "arancio": 1.6}
+    },
+      
+    "Taffeta": {
+      "6mm": {"Nero": 40, "Blu": 3, "F3BS": 3, "arancio": 1.2}
+    }
+  },
+ 
+  
+   
+    
+     "2": {
+    "Gros Grain": {
+      "3mm": {"BG": 0.055, "Blu": 0.0055},
+      "6mm": {"BG": 0.06, "Blu": 0.006}
+    }
+  },
+  
+  "87":{
+  "Doppio Raso":{
+  "25mm":{"Se2r": 0.302}
+  }
+  }
+ 
+}
